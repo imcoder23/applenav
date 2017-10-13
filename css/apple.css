@@ -1,0 +1,29 @@
+*{
+margin:0;
+padding:0;
+}
+
+.inavigation{
+  background-color: #32302F;
+  height:45px;
+  padding-top: 20px;
+}
+
+ul{
+  word-spacing: 60px;
+  text-align:center;
+}
+
+
+li{
+  color:white;
+  display:inline-block;
+}
+
+li a{
+  text-decoration: none;
+  color:white;
+}
+a:hover{
+  opacity:.65;
+}
